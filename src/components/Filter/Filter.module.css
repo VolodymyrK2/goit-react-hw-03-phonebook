@@ -1,0 +1,11 @@
+.filer__text {
+    font-size: 20px;
+}
+.filer__input{
+    height: 30px;
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 2px solid rgb(111, 172, 193);
+    font-size: 20px;
+}

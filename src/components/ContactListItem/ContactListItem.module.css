@@ -1,0 +1,19 @@
+.contact__item {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+}
+.contact__btn {
+    
+    border: 1px solid gray;
+    border-radius: 4px;
+    height: 35px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.contact__btn:hover,
+.contact__btn:focus {
+    background-color: blue;
+}
